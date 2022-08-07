@@ -1,0 +1,7 @@
+-p src
+--debug
+-L heaps
+-L hlsdl
+-hl bin/main.hl
+--main Main
+-D resourcesPath=assets
